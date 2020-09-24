@@ -1,3 +1,3 @@
 # NKCollab
 Jeg skriver en setning
-Jeg gjør en endring
+Og jeg skriver en også
