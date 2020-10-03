@@ -1,4 +1,6 @@
 # NKCollab
-Jeg skriver en setning
-Og jeg skriver en også
-test test test
+I think your readme file was shit, so I overwrote it.
+
+Now what?
+
+You can restore to a previous commit if you want.
